@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krp9848)](https://github.com/anuraghazra/github-readme-stats)
+![KABIRAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=krp9848&count_private=true)
 
 
 <!--
