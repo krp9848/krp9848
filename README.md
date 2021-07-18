@@ -1,6 +1,7 @@
 # Hi there 👋
 📌 I am **Kabi Raj Pant**, and I am currently learning and building full stack web application.
 
+![](https://komarev.com/ghpvc/?username=krp9848&color=green)
 
 ### Connect with me:
 
